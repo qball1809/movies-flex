@@ -15,7 +15,7 @@ To get you started, here are the steps you need to perform to install the WebToo
 9.  Click "Next" and continue clicking "Next" until DSM tells you installation is complete.
 10.  Start Plex if it is not already running.
 
-You may now access WebTools from within Plex or directly from the Synology start menu.
+You may now access WebTools directly from the Synology start menu.
 
 
 _**Firewall Considerations:**_
