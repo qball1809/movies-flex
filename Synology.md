@@ -1,4 +1,4 @@
-# *WTInstaller (WebTools Installer) for Synology NAS *
+# WTInstaller (WebTools Installer) for Synology NAS
 
 
 To get you started, here are the steps you need to perform to install the WebTools Installer (WTInstaller) on your Synology NAS
