@@ -4,7 +4,7 @@
 To get you started, here are the steps you need to perform to install the WebTools Installer (WTInstaller) on your Synology NAS
 
 1.  Download the released, usually latest, version of the package (.spk)
-2  Save it on your computer
+2.  Save it on your computer
 3.  Open your browser and log into your NAS as you always do
 4.  Open Package Center.
 5.    Click on "Settings" 
