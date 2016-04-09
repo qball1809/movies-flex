@@ -12,3 +12,8 @@ Then click the browse button, and select the QPKG you downloaded from [here](htt
 
 ![Browse](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/qnap/Browse.png)
 
+And done.
+
+You can now access WebTools as indicated by the red arrows below
+![Done](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/qnap/Done.png)
+
