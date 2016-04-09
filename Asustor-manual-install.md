@@ -1,4 +1,4 @@
-The Web Tools utility for the Asustor models of NAS aren't in the App Central app list.  You will need to download the file from the download located here:  https://github.com/ukdtom/WTInstaller/blob/master/bin/asustor/Asustor-Inst-WebTools_1.0.0_any.apk
+The Web Tools utility for the Asustor models of NAS aren't in the App Central app list.  You will need to download the file from the download located here:  https://github.com/ukdtom/WTInstaller/releases/latest
 
 Then you have to open the App Central application in the Asustor Device Manager (ADM) and manually install the application from the Manual Install choice on the left side.
 
