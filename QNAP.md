@@ -1,3 +1,3 @@
-# How to install a QPKG manually:
+# How to install WebTools Installer QPKG manually:
 
-ToDo
+First, browse to your QNAP administration page, and select the App Center
