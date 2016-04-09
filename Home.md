@@ -2,7 +2,7 @@
 
 To use a downloaded file, look here:
 
-* AsuStore
+* [Asustor](https://github.com/ukdtom/WTInstaller/wiki/Asustor-manual-install)
 * [QNAP](https://github.com/ukdtom/WTInstaller/wiki/QNAP)
 * [Synology](https://github.com/ukdtom/WTInstaller/wiki/Synology)
 
