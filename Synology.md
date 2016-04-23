@@ -25,8 +25,8 @@ If you actively use your firewall to control access,  you will need to create ac
 Follow these simple images:
 
 ![synology-webtools-1](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-1a.png)
-![synology-webtools-1](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-2a.png)
-![synology-webtools-1](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-3a.png)
+![synology-webtools-2](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-2a.png)
+![synology-webtools-3](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-3a.png)
 
 
 
