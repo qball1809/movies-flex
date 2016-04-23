@@ -14,7 +14,7 @@ Click "Manual Install"
 
 ![synology-webtools-1](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-1a.png)
 
-"Browse" your computer for the file "Synology_Inst-WebTools_1.0.spk"   (or appropriate version if not 1.0)
+"Browse" your computer for the file "Synology_Inst-WebTools_X.X.spk"
 
 ![synology-webtools-2](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-2a.png)
 
