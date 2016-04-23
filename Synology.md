@@ -26,9 +26,9 @@ Follow these simple images:
 
 1. Open Package Center ...
 ![synology-webtools-1](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-1.png)
-![synology-webtools-2](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-2.png)
-![synology-webtools-3](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-3.png)
-![synology-webtools-4](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-4.png)
+![synology-webtools-2](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology_webtools-2.png)
+![synology-webtools-3](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology_webtools-3.png)
+![synology-webtools-4](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology_webtools-4.png)
 ![synology-webtools-5](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology_webtools_firstrun-1.png)
 
 
