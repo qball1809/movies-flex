@@ -11,8 +11,16 @@ To get you started, here are the steps you need to perform to install the WebToo
 6.    Under "General", "Trust Level",  Click "Any Publisher" 
        (This is necessary because Synology does not support this package.  You may set it back to its previous setting after installation)
 7.  Click "Manual Install"
+
+![synology-webtools-1](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-1a.png)
+
 8.  "Browse" your computer for the file "Synology_Inst-WebTools_1.0.spk"   (or appropriate version if not 1.0)
+
+![synology-webtools-2](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-2a.png)
+
 9.  Click "Next" and continue clicking "Next" until DSM tells you installation is complete.
+
+![synology-webtools-3](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-3a.png)
 10.  Start Plex if it is not already running.
 
 You may now access WebTools directly from the Synology start menu.
@@ -22,11 +30,9 @@ _**Firewall Considerations:**_
 
 If you actively use your firewall to control access,  you will need to create active rules to permit access.  Rule definitions have been provided for you.  These are accessible in the normal Synology Firewall tool under the Built-in choices.
 
-Follow these simple images:
 
-![synology-webtools-1](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-1a.png)
-![synology-webtools-2](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-2a.png)
-![synology-webtools-3](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-3a.png)
+
+
 
 
 
