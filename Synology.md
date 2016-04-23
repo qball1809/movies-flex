@@ -1,6 +1,5 @@
 # WTInstaller (WebTools Installer) for Synology NAS
 
-
 To get you started, here are the steps you need to perform to install the WebTools Installer (WTInstaller) on your Synology NAS
 
 1.  Download the released, usually latest, version of the package (.spk)
@@ -10,18 +9,19 @@ To get you started, here are the steps you need to perform to install the WebToo
 5.    Click on "Settings" 
 6.    Under "General", "Trust Level",  Click "Any Publisher" 
        (This is necessary because Synology does not support this package.  You may set it back to its previous setting after installation)
-7.  Click "Manual Install"
+
+Click "Manual Install"
 
 ![synology-webtools-1](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-1a.png)
 
-8.  "Browse" your computer for the file "Synology_Inst-WebTools_1.0.spk"   (or appropriate version if not 1.0)
+"Browse" your computer for the file "Synology_Inst-WebTools_1.0.spk"   (or appropriate version if not 1.0)
 
 ![synology-webtools-2](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-2a.png)
 
-9.  Click "Next" and continue clicking "Next" until DSM tells you installation is complete.
+Click "Next" and continue clicking "Next" until DSM tells you installation is complete.
 
 ![synology-webtools-3](https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-3a.png)
-10.  Start Plex if it is not already running.
+Start Plex if it is not already running.
 
 You may now access WebTools directly from the Synology start menu.
 
