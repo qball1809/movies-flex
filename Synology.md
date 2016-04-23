@@ -22,5 +22,9 @@ _**Firewall Considerations:**_
 
 If you actively use your firewall to control access,  you will need to create active rules to permit access.  Rule definitions have been provided for you.  These are accessible in the normal Synology Firewall tool under the Built-in choices.
 
+Follow these simple images:
+
+https://github.com/ukdtom/WTInstaller/blob/master/Wiki/synology/synology-webtools-1.png
+
 
 
