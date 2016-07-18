@@ -7,4 +7,4 @@ To get you started, here are the steps you need to perform to install WebTools u
 3.  Run the file, it should automatically locate Plex Media Server.
 4.  Click install, this will automatically download the latest version of WebTools and install it.
 
-Note: Requires .NET Framework 4.6
+Note: Requires .NET Framework 4.6. Can be retreived via: <https://www.microsoft.com/en-us/download/details.aspx?id=48130>
