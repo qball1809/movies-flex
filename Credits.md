@@ -9,6 +9,9 @@ dane22, A Plex Community member
 ## Synology:
 ChuckPa, A Plex community member
 
+## Windows:
+Dagalufh, A Plex community member
+
 # Beta testers:
 
 ## Asustore:
